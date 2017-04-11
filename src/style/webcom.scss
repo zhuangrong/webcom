@@ -1,0 +1,15 @@
+/************ variable ************/
+@import "./variable/color";
+
+/************* reboot ************/
+@import "./reboot";
+
+
+/************ variable ************/
+@import "./components/header";
+
+/************ main css ************/
+body{
+  color: $primaryColor;
+}
+
